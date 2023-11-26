@@ -31,7 +31,7 @@ The `models` directory houses Python scripts implementing various machine learni
    ```
 
 3. **Explore Datasets:**
-   Browse the `datasets` directory to find the dataset you are interested in. Each dataset directory includes a README file with more details.
+   Browse the `datasets` directory to find the dataset you are interested in.
 
 4. **Run Models:**
    Explore the `models` directory and run the provided scripts or notebooks to train and evaluate different machine learning models.
@@ -46,10 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to [source-of-dataset](link-to-dataset-source) for providing the XYZ dataset.
-- Inspired by [name-of-inspirational-repo](link-to-inspirational-repo).
+- Inspired by [stanford-cs229](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=zErOVGgssjpfWq-0).
 
-Happy learning and coding!
-```
-
-Replace placeholders such as `your-username`, `source-of-dataset`, `link-to-dataset-source`, and `link-to-inspirational-repo` with the appropriate information for your repository. Additionally, customize the structure and content based on the specific models and datasets you have in your repository.
