@@ -10,7 +10,7 @@ y = data.iloc[:, 1].values.reshape(-1, 1)
 X_b = np.c_[np.ones((len(X), 1)), X]
 
 
-def batch_gradient_descent(X, y, learning_rate=0.01, n_epochs=1000):
+def batch_gradient_descent(X, y, learning_rate=0.01, n_epochs=10000):
     m = len(y)
     theta = np.random.randn(2, 1)  # Random initialization
 
