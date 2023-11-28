@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b052964cfc8a6999",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff541d4111e9f67d",
+            "id": "dd1df68fbb42241b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Logistic regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Logistic regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Logistic regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Logistic regression.md"
               }
             }
           }
@@ -155,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff541d4111e9f67d",
+  "active": "dd1df68fbb42241b",
   "lastOpenFiles": [
-    "Introduction.md"
+    "Linear regression.md",
+    "Logistic regression.md",
+    "Locally weighted regression.md",
+    "Gradient Optimization.md",
+    "Supervised learning.md",
+    "Gradient.md"
   ]
 }

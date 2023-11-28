@@ -2,6 +2,10 @@
 
 Welcome to the Machine Learning Models repository! This repository contains a collection of datasets and machine learning models implemented in Python. The goal is to provide a resource for learning and experimenting with various machine learning techniques.
 
+## Obsidian
+
+The `obsidian` directory contains markdown files that explain each model in models directory.
+
 ## Datasets
 
 The `datasets` directory contains a variety of datasets used for training and evaluating machine learning models. Each dataset is stored in a separate directory and includes a brief description of its purpose and features.
