@@ -1,5 +1,6 @@
+# Linear regression
 
-Its general linear model with a hypothesis function  that goes as follows :
+Its general linear model with a hypothesis function that goes as follows :
 
 `H(x)=Q0+Q1*X1+...Qn*Xn` where X1....Xn are the features and Q0....Qn are the parameters.
 
