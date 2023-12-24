@@ -23,8 +23,10 @@ silhouette_scores = []
 
 for i in range(2, max_cluster_size + 1):
     hierarchical_cluster = AgglomerativeClustering(n_clusters=i)
-    currentLabels = hierarchical_cluster.fit_predict(hierarchical_cluster_data_portion)
-    currentScore = silhouette_score(hierarchical_cluster_data_portion, currentLabels)
+    currentLabels = hierarchical_cluster.fit_predict(
+        hierarchical_cluster_data_portion)
+    currentScore = silhouette_score(
+        hierarchical_cluster_data_portion, currentLabels)
     silhouette_scores.append(currentScore)
 
 # get the number of clusters with the best silhouette_score
@@ -40,4 +42,3 @@ for i in range(0, len(countries)):
         + countries[i]
         + " is : "
         + str(kmeans.labels_[i])
-    )
