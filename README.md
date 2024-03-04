@@ -4,7 +4,7 @@ Welcome to the Machine Learning Models repository! This repository contains a co
 
 ## Obsidian
 
-The `obsidian` directory contains markdown files that explain each model in models directory.
+The `md` directory contains markdown files that explain each model in models directory.
 
 ## Datasets
 
